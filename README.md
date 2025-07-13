@@ -1,2 +1,2 @@
-# aws-sagemaker-project-test1
-test
+# aws-sagemaker-project
+AWS Sagemaker project setup workflow.
